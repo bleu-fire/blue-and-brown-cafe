@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#E8D5B5"/>
+  <rect x="60" y="60" width="680" height="480" rx="8" fill="#F4F1EC" stroke="#DDD5C9" stroke-width="2"/>
+  <!-- Gooseneck kettle -->
+  <path d="M180 250H310L335 380H155L180 250Z" fill="#1F1815"/>
+  <rect x="195" y="232" width="100" height="18" rx="4" fill="#5C534E"/>
+  <path d="M320 330C365 330 385 245 430 245" stroke="#1F1815" stroke-width="10" stroke-linecap="round"/>
+  <path d="M175 268H140C125 268 118 282 118 300C118 320 128 335 145 335H165" stroke="#1F1815" stroke-width="8" stroke-linecap="round"/>
+  <!-- Pouring water stream -->
+  <path d="M432 248C446 270 448 298 448 325" stroke="#2B547E" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <!-- Ceramic dripper + server -->
+  <polygon points="390,325 506,325 478,385 418,385" fill="#FFFFFF" stroke="#1F1815" stroke-width="2"/>
+  <path d="M418 385H478L498 465C500 472 494 478 486 478H410C402 478 396 472 398 465L418 385Z" fill="#FFFFFF" stroke="#1F1815" stroke-width="2"/>
+  <path d="M408 425H488L496 465C498 471 493 476 486 476H410C403 476 398 471 400 465L408 425Z" fill="#C4704A" opacity="0.8"/>
+  <!-- Roasted coffee beans tray -->
+  <ellipse cx="615" cy="435" rx="75" ry="26" fill="#FFFFFF" stroke="#1F1815" stroke-width="2"/>
+  <ellipse cx="592" cy="430" rx="11" ry="7" transform="rotate(-20 592 430)" fill="#1F1815"/>
+  <ellipse cx="622" cy="426" rx="11" ry="7" transform="rotate(15 622 426)" fill="#1F1815"/>
+  <ellipse cx="645" cy="438" rx="11" ry="7" transform="rotate(-10 645 438)" fill="#1F1815"/>
+  <ellipse cx="605" cy="444" rx="11" ry="7" transform="rotate(25 605 444)" fill="#5C534E"/>
+</svg>

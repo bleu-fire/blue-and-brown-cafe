@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#F4F1EC"/>
+  <!-- Warm sand arch backdrop -->
+  <path d="M120 500V220C120 115 210 55 310 55C410 55 500 115 500 220V500H120Z" fill="#E8D5B5" opacity="0.65"/>
+  <!-- Counter -->
+  <rect x="60" y="450" width="680" height="90" fill="#DDD5C9" opacity="0.5"/>
+  <line x1="60" y1="450" x2="740" y2="450" stroke="#1F1815" stroke-width="2"/>
+  <!-- Tall ribbed glass Atlas Cold Brew Tonic -->
+  <rect x="190" y="210" width="110" height="240" rx="8" fill="#FFFFFF" stroke="#1F1815" stroke-width="2"/>
+  <rect x="198" y="265" width="94" height="175" rx="4" fill="#1F1815" opacity="0.88"/>
+  <rect x="198" y="245" width="94" height="35" rx="3" fill="#E0A526" opacity="0.85"/>
+  <line x1="215" y1="220" x2="215" y2="440" stroke="#DDD5C9" stroke-width="1.5"/>
+  <line x1="245" y1="220" x2="245" y2="440" stroke="#DDD5C9" stroke-width="1.5"/>
+  <line x1="275" y1="220" x2="275" y2="440" stroke="#DDD5C9" stroke-width="1.5"/>
+  <!-- Orange peel twist -->
+  <path d="M235 235C248 212 272 215 278 232" stroke="#C4704A" stroke-width="4" stroke-linecap="round"/>
+  <!-- Saffron Cardamom Latte stoneware cup -->
+  <path d="M360 345H475L462 435C460 444 452 450 443 450H392C383 450 375 444 373 435L360 345Z" fill="#FFFFFF" stroke="#1F1815" stroke-width="2"/>
+  <path d="M475 362H492C500 362 505 370 505 380C505 390 500 398 492 398H468" stroke="#1F1815" stroke-width="2"/>
+  <ellipse cx="417.5" cy="345" rx="57.5" ry="10" fill="#E0A526" opacity="0.9"/>
+  <!-- V60 Glass Carafe -->
+  <path d="M565 255H665L635 315H595L565 255Z" fill="#FFFFFF" stroke="#1F1815" stroke-width="2"/>
+  <path d="M585 315H645L670 435C672 444 665 450 656 450H574C565 450 558 444 560 435L585 315Z" fill="#FFFFFF" stroke="#1F1815" stroke-width="2"/>
+  <path d="M573 385H657L668 435C670 443 664 448 656 448H574C566 448 560 443 562 435L573 385Z" fill="#C4704A" opacity="0.75"/>
+  <!-- Zellige accent diamond -->
+  <polygon points="615,120 638,143 615,166 592,143" stroke="#2B547E" stroke-width="2" fill="#BFEBD6"/>
+</svg>

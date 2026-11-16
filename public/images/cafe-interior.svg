@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#F4F1EC"/>
+  <!-- Moroccan arch doorway -->
+  <path d="M80 540V180C80 100 155 50 230 50C305 50 380 100 380 180V540H80Z" fill="#E8D5B5" stroke="#1F1815" stroke-width="2"/>
+  <!-- Zellige tile frieze -->
+  <rect x="420" y="90" width="320" height="56" fill="#2B547E" opacity="0.14" stroke="#2B547E" stroke-width="1.5"/>
+  <polygon points="460,104 474,118 460,132 446,118" fill="#2B547E" opacity="0.7"/>
+  <polygon points="520,104 534,118 520,132 506,118" fill="#C4704A" opacity="0.75"/>
+  <polygon points="580,104 594,118 580,132 566,118" fill="#2B547E" opacity="0.7"/>
+  <polygon points="640,104 654,118 640,132 626,118" fill="#E0A526" opacity="0.85"/>
+  <polygon points="700,104 714,118 700,132 686,118" fill="#2B547E" opacity="0.7"/>
+  <!-- Brass pendant reading lamps -->
+  <line x1="230" y1="50" x2="230" y2="210" stroke="#1F1815" stroke-width="1.5"/>
+  <path d="M195 210H265L280 245H180L195 210Z" fill="#E0A526" stroke="#1F1815" stroke-width="1.5"/>
+  <line x1="580" y1="0" x2="580" y2="220" stroke="#1F1815" stroke-width="1.5"/>
+  <path d="M545 220H615L630 255H530L545 220Z" fill="#E0A526" stroke="#1F1815" stroke-width="1.5"/>
+  <!-- Communal cedarwood study table -->
+  <rect x="130" y="380" width="540" height="22" rx="3" fill="#C4704A" opacity="0.4" stroke="#1F1815" stroke-width="2"/>
+  <rect x="175" y="402" width="16" height="138" fill="#1F1815"/>
+  <rect x="609" y="402" width="16" height="138" fill="#1F1815"/>
+  <!-- Study setups on table -->
+  <rect x="180" y="330" width="95" height="50" rx="3" fill="#1F1815"/>
+  <rect x="188" y="337" width="79" height="36" fill="#FFFFFF"/>
+  <rect x="315" y="352" width="28" height="28" rx="3" fill="#FFFFFF" stroke="#1F1815" stroke-width="1.5"/>
+  <rect x="490" y="330" width="95" height="50" rx="3" fill="#1F1815"/>
+  <rect x="498" y="337" width="79" height="36" fill="#BFEBD6"/>
+  <!-- Indoor olive plant pot -->
+  <path d="M685 450H745L735 540H695L685 450Z" fill="#C4704A" stroke="#1F1815" stroke-width="2"/>
+  <path d="M715 450V330" stroke="#1F1815" stroke-width="2"/>
+  <ellipse cx="695" cy="365" rx="22" ry="10" transform="rotate(-30 695 365)" fill="#BFEBD6" stroke="#1F1815" stroke-width="1.5"/>
+  <ellipse cx="735" cy="350" rx="22" ry="10" transform="rotate(25 735 350)" fill="#BFEBD6" stroke="#1F1815" stroke-width="1.5"/>
+  <ellipse cx="715" cy="322" rx="18" ry="10" transform="rotate(-10 715 322)" fill="#BFEBD6" stroke="#1F1815" stroke-width="1.5"/>
+</svg>

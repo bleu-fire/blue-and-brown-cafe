@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#E8D5B5"/>
+  <!-- Sunlit window beam -->
+  <polygon points="0,0 520,0 320,600 0,600" fill="#F4F1EC" opacity="0.55"/>
+  <!-- Zellige geometric arch motif in background -->
+  <path d="M560 460V210C560 140 620 95 660 95C700 95 760 140 760 210V460" stroke="#2B547E" stroke-width="2" opacity="0.35"/>
+  <path d="M585 460V220C585 165 628 125 660 125C692 125 735 165 735 220V460" stroke="#C4704A" stroke-width="1.5" opacity="0.4"/>
+  <!-- Cedarwood table -->
+  <rect x="40" y="390" width="720" height="210" rx="4" fill="#C4704A" opacity="0.22"/>
+  <line x1="40" y1="390" x2="760" y2="390" stroke="#1F1815" stroke-width="2"/>
+  <!-- Open notebook -->
+  <rect x="130" y="325" width="230" height="145" rx="6" fill="#FFFFFF" stroke="#1F1815" stroke-width="2"/>
+  <line x1="245" y1="325" x2="245" y2="470" stroke="#DDD5C9" stroke-width="2"/>
+  <line x1="155" y1="360" x2="225" y2="360" stroke="#5C534E" stroke-width="1.5"/>
+  <line x1="155" y1="382" x2="215" y2="382" stroke="#5C534E" stroke-width="1.5"/>
+  <line x1="155" y1="404" x2="220" y2="404" stroke="#5C534E" stroke-width="1.5"/>
+  <line x1="265" y1="360" x2="335" y2="360" stroke="#2B547E" stroke-width="1.5"/>
+  <line x1="265" y1="382" x2="325" y2="382" stroke="#5C534E" stroke-width="1.5"/>
+  <!-- Minimal laptop silhouette -->
+  <path d="M410 230H640C648 230 654 236 654 244V385H396V244C396 236 402 230 410 230Z" fill="#1F1815"/>
+  <rect x="410" y="244" width="230" height="128" rx="2" fill="#F4F1EC"/>
+  <rect x="430" y="266" width="90" height="8" rx="2" fill="#2B547E"/>
+  <rect x="430" y="286" width="160" height="5" rx="2" fill="#DDD5C9"/>
+  <rect x="430" y="300" width="140" height="5" rx="2" fill="#DDD5C9"/>
+  <rect x="372" y="385" width="306" height="12" rx="4" fill="#5C534E"/>
+  <!-- Stoneware cortado cup -->
+  <ellipse cx="290" cy="390" rx="52" ry="12" fill="#FFFFFF" stroke="#1F1815" stroke-width="2"/>
+  <path d="M254 316H326L318 378C317 385 310 390 303 390H277C270 390 263 385 262 378L254 316Z" fill="#FFFFFF" stroke="#1F1815" stroke-width="2"/>
+  <path d="M326 328H340C346 328 350 334 350 342C350 350 346 356 340 356H322" stroke="#1F1815" stroke-width="2"/>
+  <ellipse cx="290" cy="316" rx="36" ry="7" fill="#C4704A"/>
+  <!-- Rising steam -->
+  <path d="M276 296C270 278 284 266 278 248" stroke="#1F1815" stroke-width="1.75" stroke-linecap="round" opacity="0.6"/>
+  <path d="M296 292C290 272 304 260 298 240" stroke="#2B547E" stroke-width="1.75" stroke-linecap="round" opacity="0.65"/>
+</svg>
